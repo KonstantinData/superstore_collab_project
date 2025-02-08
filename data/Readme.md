@@ -1,4 +1,4 @@
-## Data Folder – Superstore Dataset
+## **📁  Data Folder – Superstore Dataset**
 This folder contains the Superstore dataset, which serves as the foundation for our analysis. The dataset includes information on sales, customers, products, and regional performance, providing valuable insights into business trends.
 
 📌 Contents:
